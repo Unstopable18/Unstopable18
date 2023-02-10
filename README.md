@@ -12,7 +12,7 @@
 <img align="left" width=200px height=200px alt="side_sticker" src="https://cutewallpaper.org/21/gif-with-transparent-background/Mario-run-gif-transparent-background-Album-on-Imgur.gif" />
 
 ### About Me
-- 🔭 I am Student of Master's in Computer Application at Sant Gadge Baba Amravati University Deparment
+- 🔭 I have completed Master's in Computer Application from Sant Gadge Baba Amravati University Deparment
 - 🌱 I am currently working on Support System Website of Sant Gadge Baba Amravati University
 - 👯 I have a Youtube Channel were I try to give solutions to the queries raised in the routine codes of the sprouting developers.
 - 📫 Let me know if you need any help: vrd181999@gmail.com
