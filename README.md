@@ -8,7 +8,7 @@
 
 <!-- Header -->
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  My self Vaishnavi Ravindra Deshmukh</h1>
-<h3 align="center">⚡iOS Devloper | Development Team ( Support System SGBAU )⚡</h3>
+<h3 align="center">⚡iOS Developer | Development Team ( Support System SGBAU )⚡</h3>
 <img align="left" width=200px height=200px alt="side_sticker" src="https://cutewallpaper.org/21/gif-with-transparent-background/Mario-run-gif-transparent-background-Album-on-Imgur.gif" /><br/>
 
 ## About Me 
