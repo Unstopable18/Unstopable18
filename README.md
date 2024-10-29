@@ -13,7 +13,7 @@
 
 ## About Me 
 - 🔭 I have completed Master's in Computer Application from Sant Gadge Baba Amravati University Deparment
-- 🌱 I have been working as iOS Devloper from last 2 years, also previously worked on Support System Website of Sant Gadge Baba Amravati University : http://supportsystem.sgbau.ac.in/
+- 🌱 I have been working as iOS Developer from last 2 years, also previously worked on Support System Website of Sant Gadge Baba Amravati University : http://supportsystem.sgbau.ac.in/
 - 👯 I have a Youtube Channel were I try to give solutions to the queries raised in the routine codes of the sprouting developers.
 - 📫 Let me know if you need any help: vrd181999@gmail.com
 
