@@ -9,11 +9,11 @@
 <!-- Header -->
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  My self Vaishnavi Ravindra Deshmukh</h1>
 <h3 align="center">⚡Development Team ( Support System SGBAU )⚡</h3>
-<img align="left" width=200px height=200px alt="side_sticker" src="https://cutewallpaper.org/21/gif-with-transparent-background/Mario-run-gif-transparent-background-Album-on-Imgur.gif" />
+<img align="left" width=200px height=200px alt="side_sticker" src="https://cutewallpaper.org/21/gif-with-transparent-background/Mario-run-gif-transparent-background-Album-on-Imgur.gif" /><br/>
 
-  ### About Me
+## About Me 
 - 🔭 I have completed Master's in Computer Application from Sant Gadge Baba Amravati University Deparment
-- 🌱 I am currently working on Support System Website of Sant Gadge Baba Amravati University : http://supportsystem.sgbau.ac.in/
+- 🌱 I have been working as iOS Devloper from last 2 years, also previously worked on Support System Website of Sant Gadge Baba Amravati University : http://supportsystem.sgbau.ac.in/
 - 👯 I have a Youtube Channel were I try to give solutions to the queries raised in the routine codes of the sprouting developers.
 - 📫 Let me know if you need any help: vrd181999@gmail.com
 
